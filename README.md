@@ -1,3 +1,3 @@
 #[ test-]
-(https://hubilya.github.io/test-3d/)
-3d planet asset
+
+3d planet asset + satellite movement around th object or just in space
